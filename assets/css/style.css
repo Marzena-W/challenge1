@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+
 /* ----------------------- */
 /* Header section */
 header {
@@ -47,17 +48,24 @@ header h1 #id {
 }
 
 
-p {
-    font-size: 16px;
-}
 
-.hero {
+/* ----------------------- */
+/* Hero Banner section */
+.hero-banner {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+}
+
+
+
+/* ----------------------- */
+/* Main section */
+p {
+    font-size: 16px;
 }
 
 .float-left {
@@ -76,6 +84,9 @@ p {
     margin-left: 20px;
 }
 
+
+/* ----------------------- */
+/* Sidebar section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -189,6 +200,10 @@ p {
     font-size: 36px;
 }
 
+
+
+/* ----------------------- */
+/* footer section */
 .footer {
     padding: 30px;
     clear: both;
