@@ -78,13 +78,13 @@ p {
     margin-left: 25px;
 }
 
-article {
+.services {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.content {
+.digital-service-item {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -93,11 +93,11 @@ article {
     color: #ffffff;
 }
 
-.content img {
+.digital-service-item img {
     max-height: 200px;
 }
 
-.content h2 {
+.digital-service-item h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
