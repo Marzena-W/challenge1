@@ -23,12 +23,12 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 #id {
+header h1 #seo {
     color: #d9dcd6;
 }
 
     /* Navigation links */
-.header-links-text-right {
+.header-links {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -37,12 +37,12 @@ header h1 #id {
     list-style-type: none;
 }
 
-.header-links-text-right ul li {
+.header-links ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-.header-links-text-right a {
+.header-links a {
     color: #ffffff;
     text-decoration: none;
 }
@@ -50,20 +50,25 @@ header h1 #id {
 
 
 /* ----------------------- */
-/* Hero Banner section */
-.hero-banner {
+/* Hero image section */
+.hero-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
-    background-image: url("../images/digital-marketing-meeting.jpg");
 }
 
 
 
 /* ----------------------- */
 /* Main section */
+.services {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 p {
     font-size: 16px;
 }
@@ -76,12 +81,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.services {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .digital-service-item {
