@@ -20,6 +20,14 @@ W3 - [https://www.w3schools.com/html/default.asp]
 Screen Reader - [https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en-US]
 
 
+## Usage
+
+* Deployed application - [https://marzena-w.github.io/challenge1/]
+* Screenshot of the website -
+```md
+![alt text](assets/images/heriseon-website-screenshot.png)
+```
+
 ## License
 
 MIT. Public, open-source.
