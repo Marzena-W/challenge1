@@ -28,7 +28,7 @@ header h1 #seo {
 }
 
     /* Navigation links */
-.header-links {
+#nav-header-links {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -37,12 +37,12 @@ header h1 #seo {
     list-style-type: none;
 }
 
-.header-links ul li {
+#nav-header-links ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-.header-links a {
+#nav-header-links a {
     color: #ffffff;
     text-decoration: none;
 }
@@ -51,7 +51,7 @@ header h1 #seo {
 
 /* ----------------------- */
 /* Hero image section */
-.hero-image {
+#hero-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -63,7 +63,7 @@ header h1 #seo {
 
 /* ----------------------- */
 /* Main section */
-.services {
+#services {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
