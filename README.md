@@ -25,7 +25,7 @@ Screen Reader - [https://chrome.google.com/webstore/detail/screen-reader/kgejglh
 * Deployed application - [https://marzena-w.github.io/challenge1/]
 * Screenshot of the website -
 ```md
-![alt text](assets/images/heriseon-website-screenshot.png)
+![alt text](https://user-images.githubusercontent.com/117311912/204160173-3a9756f6-71df-4e24-a8ed-74b6a73a2250.png)
 ```
 
 ## License
